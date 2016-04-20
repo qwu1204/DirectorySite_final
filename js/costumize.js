@@ -82,9 +82,9 @@ $('.multi-item-carousel .item').each(function(){
 
   img = "images/002.jpg";
   title = "ASUS Transformer Book Flip TP200SA-UHBF";
-  features = "Product description... Lorem ipsum dolor sit amet, consectetuer adipiscing elit,";
-  oldprice = "$120";
-  newprice = "$100";
+  features = "11.6 in HD WXGA touchscreen (1366 x 768), 10-finger multi-touch support;Intel Celeron N3050 1.60 GHz with Intel Burst Technology up to 2.16 GHz;2GB DDR3 1600MHz memory, 32GB eMMC.";
+  oldprice = "$360";
+  newprice = "$200";
   link = "http://www.microsoftstore.com/store/msusa/en_US/pdp/Dell-XPS-13-9350-Signature-Edition-Laptop/productID.326871500";
   id = "img002";
   date = "9";
@@ -96,9 +96,9 @@ $('.multi-item-carousel .item').each(function(){
 
   img = "images/003.jpg";
   title = "HP Pavilion 13-s128nr x360 13.3-Inch Full-HD 2-in-1 Laptop (Core i5, 8GB RAM, 128GB SSD) with Windows 10";
-  features = "Product description... Lorem ipsum dolor sit amet, consectetuer adipiscing elit,";
-  oldprice = "$120";
-  newprice = "$100";
+  features = "Windows 10 Home 64-bit; 1 USB 3.0, 1 USB 2.0, 1 USB-C Gen 1, Micro HDMI.";
+  oldprice = "$980";
+  newprice = "$700";
   link = "http://www.microsoftstore.com/store/msusa/en_US/pdp/ASUS-Transformer-Book-Flip-TP200SA-UHBF-Signature-Edition-2-in-1-PC/productID.326870700";
   id = "img003";
   date = "9";
@@ -109,7 +109,7 @@ $('.multi-item-carousel .item').each(function(){
 
   img = "images/004.jpg";
   title = "Apple MacBook Pro MJLQ2LL/A 15.4-Inch Laptop with Retina Display";
-  features = "Product description... Lorem ipsum dolor sit amet, consectetuer adipiscing elit,";
+  features = "10-finger multi-touch support;Intel Celeron N3050 1.60 GHz with Intel Burst Technology up to 2.16 GHz;2GB DDR3 1600MHz memory, 32GB eMMC.";
   oldprice = "$120";
   newprice = "$100";
   link = "http://www.amazon.com/Apple-MacBook-MJLQ2LL-15-4-Inch-Display/dp/B00XZGMBVC";
@@ -124,9 +124,9 @@ $('.multi-item-carousel .item').each(function(){
 
   img = "images/005.jpg";
   title = "Apple MacBook Pro MJLQ2LL/A 15.4-Inch Laptop with Retina Display";
-  features = "Product description... Lorem ipsum dolor sit amet, consectetuer adipiscing elit,";
-  oldprice = "$120";
-  newprice = "$100";
+  features = "Convertible 2-in-1 notebooks with four viewing modes: tablet, tent, stand, and laptop; 11.6' IPS HD 178-degree wide viewing angles with touchscreen display";
+  oldprice = "$870";
+  newprice = "$600";
   link = "http://www.amazon.com/Apple-MacBook-MJLQ2LL-15-4-Inch-Display/dp/B00XZGMBVC";
   id = "img004";
   date = "9";
@@ -137,9 +137,9 @@ $('.multi-item-carousel .item').each(function(){
 
   img = "images/006.jpg";
   title = "Refurb HP Split x2 Touchscreen Laptop";
-  features = "Product description... Lorem ipsum dolor sit amet, consectetuer adipiscing elit,";
-  oldprice = "$120";
-  newprice = "$100";
+  features = "Intel Braswell Dual Core N3050 1.6GHz (Turbo up to 2.16GHz);Touchscreen, smooth multitasking with 4GB memory, 64GB SSD with Windows 10 pre-installed";
+  oldprice = "$590";
+  newprice = "$320";
   link = "http://www.amazon.com/HP-Split-13-g210dx-Blluetooth-Refurbished/dp/B00N26UO6E";
   id = "img006";
   date = "8";
@@ -150,9 +150,9 @@ $('.multi-item-carousel .item').each(function(){
 
   img = "images/007.jpg";
   title = "Lenovo IdeaPad G50 5.6' Touch Laptop Intel Core i5-5200U";
-  features = "Product description... Lorem ipsum dolor sit amet, consectetuer adipiscing elit,";
-  oldprice = "$120";
-  newprice = "$100";
+  features = "Intel Braswell Dual Core N3050 1.6GHz (Turbo up to 2.16GHz);Touchscreen, smooth multitasking with 4GB memory, 64GB SSD with Windows 10 pre-installed";
+  oldprice = "$590";
+  newprice = "$300";
   link = "http://shop.lenovo.com/us/en/laptops/lenovo/g-series/g50/?cid=us:sem|se|google|All_Products|NX_Lenovo_All_Products_DSA&ef_id=Vq-NiAAABOeUF5nc:20160211051348:s";
   id = "img007";
   date = "8";
@@ -163,9 +163,9 @@ $('.multi-item-carousel .item').each(function(){
 
   img = "images/008.jpg";
   title = "New HP Zbook 14-G1 14' i7-4600U 750GB 2.1GHz W8Pro/W7Pro UltraBook Laptop PC";
-  features = "Product description... Lorem ipsum dolor sit amet, consectetuer adipiscing elit,";
-  oldprice = "$120";
-  newprice = "$100";
+  features = "Convertible 2-in-1 notebooks with four viewing modes: tablet, tent, stand, and laptop; 11.6' IPS HD 178-degree wide viewing angles with touchscreen display";
+  oldprice = "$420";
+  newprice = "$210";
   link = "http://www.ebay.com/itm/New-HP-Zbook-14-G1-14-Mobile-Workstation-i7-4600U-750GB-W8Pro-W7Pro-UltraBook-/231791552953";
   id = "img008";
   date = "8";
@@ -176,9 +176,9 @@ $('.multi-item-carousel .item').each(function(){
 
   img = "images/009.jpg";
   title = "HP 250 G4 15.6' Core i5-5200U Laptop";
-  features = "Product description... Lorem ipsum dolor sit amet, consectetuer adipiscing elit,";
-  oldprice = "$120";
-  newprice = "$100";
+  features = "Convertible 2-in-1 notebooks with four viewing modes: tablet, tent, stand, and laptop; 11.6' IPS HD 178-degree wide viewing angles with touchscreen display";
+  oldprice = "$540";
+  newprice = "$400";
   link = "http://www.newegg.com/Product/Product.aspx?Item=N82E16834261573";
   id = "img009";
   date = "8";
@@ -191,9 +191,9 @@ $('.multi-item-carousel .item').each(function(){
 
   img = "images/010.jpg";
   title = "Computer Loudspeaker System with Built-in Amplifier";
-  features = "Product description... Lorem ipsum dolor sit amet, consectetuer adipiscing elit,";
-  oldprice = "$120";
-  newprice = "$100";
+  features = "Equipped Wi-Fi 802.11ac. This is almost 3x faster than the typical 802.11n";
+  oldprice = "$87";
+  newprice = "$40";
   link = "http://www.jbl.com/computer-speakers/JBL+JEMBE.html";
   id = "img010";
   date = "7";
@@ -205,8 +205,8 @@ $('.multi-item-carousel .item').each(function(){
 
   img = "images/015.jpg";
   title = "AT&T GoPhone Asus ZenFone 2E 4G LTE w/ 8GB Memory No-Contract Cell Phone";
-  features = "Product description... Lorem ipsum dolor sit amet, consectetuer adipiscing elit,";
-  oldprice = "$120";
+  features = "Touchscreen, smooth multitasking with 4GB memory, 64GB SSD with Windows 10 pre-installed";
+  oldprice = "$240";
   newprice = "$100";
   link = "https://www.att.com/cellphones/asus/zenfone-2e-prepaid.html#sku=sku7660272";
   id = "img015";
@@ -220,7 +220,7 @@ $('.multi-item-carousel .item').each(function(){
 
   img = "images/016.jpg";
   title = "AT&T GoPhone ZTE Zmax 2 4G with 16GB Memory No-Contract Cell Phone - Black";
-  features = "Product description... Lorem ipsum dolor sit amet, consectetuer adipiscing elit,";
+  features = "Unlocked, multi-mode and will work on all US carriers including AT&T, Verizon, T-Mobile and Sprint, as well as MVNO's (Mobile Virtual Network Operators) and most international carriers";
   oldprice = "$120";
   newprice = "$100";
   link = "http://www.bestbuy.com/site/at-t-gophone-zte-zmax-2-4g-with-16gb-memory-no-contract-cell-phone-black/4421800.p?id=1219745390060&skuId=4421800";
@@ -236,8 +236,8 @@ $('.multi-item-carousel .item').each(function(){
 
   img = "images/019.jpg";
   title = "Motorola 8GB Moto E 4G No-Contract Cell Phone (Sprint Prepaid)";
-  features = "Product description... Lorem ipsum dolor sit amet, consectetuer adipiscing elit,";
-  oldprice = "$120";
+  features = "Pure Android Experience: Android 6.0 Marshmallow";
+  oldprice = "$230";
   newprice = "$100";
   link = "http://www.bestbuy.com/site/sprint-prepaid-motorola-moto-e-4g-with-8gb-memory-no-contract-cell-phone-black/2729581.p?id=1219563946201";
   id = "img019";
@@ -251,8 +251,8 @@ $('.multi-item-carousel .item').each(function(){
 
   img = "images/020.jpg";
   title = "Verizon LG Transpyre Prepaid Smartphone";
-  features = "Product description... Lorem ipsum dolor sit amet, consectetuer adipiscing elit,";
-  oldprice = "$120";
+  features = "Pure Android Experience: Android 6.0 Marshmallow";
+    oldprice = "$120";
   newprice = "$100";
   link = "http://www.techbargains.com/lg-transpyre-mobile-deals";
   id = "img020";
@@ -264,9 +264,9 @@ $('.multi-item-carousel .item').each(function(){
 
   img = "images/010.jpg";
   title = "Computer Loudspeaker System with Built-in Amplifier";
-  features = "Product description... Lorem ipsum dolor sit amet, consectetuer adipiscing elit,";
-  oldprice = "$120";
-  newprice = "$100";
+  features = "Fingerprint sensor for enhanced and simplified security - turn on your screen and unlock instantly with just your fingertip";
+  oldprice = "$390";
+  newprice = "$240";
   link = "http://www.jbl.com/computer-speakers/JBL+JEMBE.html";
   id = "img010";
   date = "9";
@@ -279,9 +279,9 @@ $('.multi-item-carousel .item').each(function(){
 
   img = "images/017.jpg";
   title = "Samsung 64GB or 64GB EVO Class 10 microSD Card with Adapter";
-  features = "Product description... Lorem ipsum dolor sit amet, consectetuer adipiscing elit,";
-  oldprice = "$120";
-  newprice = "$100";
+  features = "Battery: 2700 mAh Battery USB Type-C for fast charging. User available storage out of 16 is 10.6 GB.";
+  oldprice = "$680";
+  newprice = "$400";
   link = "http://www.amazon.com/Samsung-Class-Adapter-MB-MP64DA-AM/dp/B00IVPU7AO";
   id = "img017";
   date = "8";
@@ -292,9 +292,9 @@ $('.multi-item-carousel .item').each(function(){
 
   img = "images/018.jpg";
   title = "Samsung 64GB or 64GB EVO Class 10 microSD Card with Adapter";
-  features = "Product description... Lorem ipsum dolor sit amet, consectetuer adipiscing elit,";
-  oldprice = "$120";
-  newprice = "$100";
+  features = "Fingerprint sensor for enhanced and simplified security - turn on your screen and unlock instantly with just your fingertip";
+  oldprice = "$430";
+  newprice = "$220";
   link = "http://www.bestbuy.com/site/at-t-gophone-microsoft-lumia-640-4g-lte-with-8gb-memory-no-contract-cell-phone-black/9231014.p?id=1219701750248&skuId=9231014";
   id = "img018";
   date = "7";
@@ -307,9 +307,9 @@ $('.multi-item-carousel .item').each(function(){
 
   img = "images/011.jpg";
   title = "Masione Power Socket With 5 Outlet 2 X USB Charging";
-  features = "Product description... Lorem ipsum dolor sit amet, consectetuer adipiscing elit,";
-  oldprice = "$120";
-  newprice = "$100";
+  features = "Fingerprint sensor for enhanced and simplified security - turn on your screen and unlock instantly with just your fingertip";
+  oldprice = "$320";
+  newprice = "$250";
   link = "http://www.amazon.com/Masione-Power-Socket-Outlet-Charging/dp/B00SB7QB2K";
   id = "img011";
   date = "8";
@@ -320,9 +320,9 @@ $('.multi-item-carousel .item').each(function(){
 
   img = "images/012.jpg";
   title = "Harman Kardon HKTS 15 5.1-Channel Home Theater Speaker System";
-  features = "Product description... Lorem ipsum dolor sit amet, consectetuer adipiscing elit,";
-  oldprice = "$120";
-  newprice = "$100";
+  features = "Loudspeaker Ringer Sound Module For Samsung Galaxy Note 3 III N9000 N9002 N9005 N900A N900V N900T";
+   oldprice = "$450";
+  newprice = "$300";
   link = "http://www.amazon.com/Harman-Kardon-High-Performance-Discontinued-Manufacturer/dp/B000K818SA";
   id = "img012";
   date = "7";
@@ -348,9 +348,9 @@ $('.multi-item-carousel .item').each(function(){
 
   img = "images/014.jpg";
   title = "Transcend 128GB MLC SATA III 6Gb/s 2.5' Solid State Drive 370 ";
-  features = "Product description... Lorem ipsum dolor sit amet, consectetuer adipiscing elit,";
-  oldprice = "$120";
-  newprice = "$100";
+  features = "his wireless buetooth speakers with Bluetooth + TF Card Slot + FM Radio + MIC + Aux Line In, support A2DP, AVRCP, headset, handsfree profile, can almost meet your all the need of a speaker.";
+  oldprice = "$450";
+  newprice = "$250";
   link = "http://www.amazon.com/Transcend-128GB-Solid-State-TS128GSSD370S/dp/B00VX82P2E%3Fpsc%3D1%26SubscriptionId%3D07PVPGV9KPJSRT8N9GG2%26tag%3Ddealmoon-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00VX82P2E";
   id = "img014";
   date = "5";
